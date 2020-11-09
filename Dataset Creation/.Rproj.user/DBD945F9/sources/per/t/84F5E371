@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578852853392.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2136400478",
+    "id" : "84F5E371",
+    "lastKnownWriteTime" : 1578853524,
+    "last_content_update" : 1578853524961,
+    "path" : "C:/Users/Feyza/Desktop/denemetez/latest-dneme/Dataset Creation/01. Dataset Creation.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "17,28",
+        "scrollLine" : "8"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
